@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+# SPDX-FileCopyrightText: 2026 Hiroki Ueno <kirohi.noeu@gmail.com>
 import sys
 
 
